@@ -15,7 +15,7 @@ public class JavaApplicationAppGithub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo desde escritorio\n");
+        System.out.println("Hola Mundo desde escritorio editado en línea\n");
     }
     
 }
